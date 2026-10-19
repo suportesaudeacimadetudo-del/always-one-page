@@ -1,5 +1,5 @@
-import type { Exercise } from "@/data/exercises";
 import { createClientOnlyFn } from "@tanstack/react-start";
+import type { Exercise } from "@/data/exercises";
 
 export type PrescriptionItem = {
   exercise: Exercise;
@@ -27,53 +27,34 @@ function cleanFileName(value: string) {
     .toLowerCase();
 }
 
-function drawPerson(doc: PdfDocument, x: number, y: number, variant: number) {
-  doc.setDrawColor(18, 56, 82);
-  doc.setLineWidth(1.3);
-  doc.circle(x + 19, y + 8, 4);
-  doc.line(x + 19, y + 12, x + 19, y + 28);
-  doc.line(x + 19, y + 28, x + 12, y + 40);
-  doc.line(x + 19, y + 28, x + 27, y + 40);
-  if (variant % 4 === 0) {
-    doc.line(x + 19, y + 16, x + 9, y + 5);
-    doc.line(x + 19, y + 16, x + 30, y + 5);
-  } else if (variant % 4 === 1) {
-    doc.line(x + 19, y + 16, x + 8, y + 20);
-    doc.line(x + 8, y + 20, x + 3, y + 14);
-    doc.line(x + 19, y + 16, x + 30, y + 20);
-    doc.line(x + 30, y + 20, x + 35, y + 14);
-  } else if (variant % 4 === 2) {
-    doc.line(x + 19, y + 16, x + 8, y + 29);
-    doc.line(x + 19, y + 16, x + 31, y + 20);
-  } else {
-    doc.line(x + 19, y + 16, x + 6, y + 15);
-    doc.line(x + 19, y + 16, x + 32, y + 15);
-  }
-  doc.setDrawColor(57, 168, 142);
-  doc.setLineWidth(1.8);
-  doc.line(x + 15, y + 17, x + 23, y + 17);
-}
-
 function addHeader(doc: PdfDocument, professional: string, patient: string) {
   doc.setFillColor(18, 56, 82);
   doc.rect(0, 0, 210, 31, "F");
   doc.setFillColor(57, 168, 142);
   doc.circle(18, 15, 7, "F");
   doc.setTextColor(255, 255, 255);
+  doc.setDrawColor(255, 255, 255);
+  doc.setLineWidth(1.2);
+  doc.line(14.5, 15, 21.5, 15);
+  doc.line(18, 11.5, 18, 18.5);
   doc.setFont("helvetica", "bold");
   doc.setFontSize(16);
-  doc.text("FisioExercícios", 29, 13);
+  doc.text("Fisio Express", 29, 13);
   doc.setFontSize(8);
   doc.setFont("helvetica", "normal");
   doc.text("ORIENTAÇÕES DE EXERCÍCIOS", 29, 20);
   doc.setTextColor(18, 56, 82);
   doc.setFontSize(9);
   doc.setFont("helvetica", "bold");
-  doc.text(patient ? `Paciente: ${patient}` : "Orientação personalizada", 15, 41);
+  doc.text(
+    doc.splitTextToSize(patient ? `Paciente: ${patient}` : "Orientação personalizada", 140),
+    15,
+    41,
+  );
   doc.setFont("helvetica", "normal");
   const date = new Intl.DateTimeFormat("pt-BR").format(new Date());
   doc.text(`Data: ${date}`, 195, 41, { align: "right" });
-  if (professional) doc.text(`Profissional: ${professional}`, 15, 47);
+  if (professional) doc.text(doc.splitTextToSize(`Profissional: ${professional}`, 180), 15, 53);
 }
 
 function addFooter(doc: PdfDocument, page: number) {
@@ -92,76 +73,77 @@ function addFooter(doc: PdfDocument, page: number) {
 export const createExercisePdf = createClientOnlyFn(async (prescription: Prescription) => {
   const { jsPDF } = await import("jspdf");
   const doc = new jsPDF({ unit: "mm", format: "a4", compress: true });
-  const blockHeight = 72;
-  let page = 1;
-  let y = 54;
 
-  addHeader(doc, prescription.professional, prescription.patient);
-
-  prescription.items.forEach((item, index) => {
-    if (y + blockHeight > 278) {
-      addFooter(doc, page);
-      doc.addPage();
-      page += 1;
-      y = 45;
-      addHeader(doc, prescription.professional, prescription.patient);
-      y = 54;
+  doc.setProperties({
+    title: "Orientações de exercícios | Fisio Express",
+    creator: "Fisio Express",
+  });
+  let page = 0;
+  for (const [index, item] of prescription.items.entries()) {
+    if (page) doc.addPage();
+    page += 1;
+    addHeader(doc, prescription.professional, prescription.patient);
+    let y = 72;
+    if (item.exercise.image) {
+      const response = await fetch(item.exercise.image);
+      if (!response.ok) throw new Error("Não foi possível carregar a imagem do exercício.");
+      const imageBlob = await response.blob();
+      const data = await new Promise<string>((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(String(reader.result));
+        reader.onerror = () => reject(reader.error);
+        reader.readAsDataURL(imageBlob);
+      });
+      const dimensions = doc.getImageProperties(data);
+      const scale = Math.min(53 / dimensions.width, 65 / dimensions.height);
+      const w = dimensions.width * scale,
+        h = dimensions.height * scale;
+      doc.addImage(data, dimensions.fileType, 15 + (53 - w) / 2, y, w, h, undefined, "FAST");
     }
-
-    doc.setFillColor(247, 250, 250);
-    doc.setDrawColor(220, 231, 233);
-    doc.roundedRect(15, y, 180, 65, 3, 3, "FD");
-    doc.setFillColor(232, 247, 242);
-    doc.roundedRect(20, y + 6, 42, 48, 2, 2, "F");
-    drawPerson(doc, 22, y + 8, index);
-
-    doc.setTextColor(18, 56, 82);
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(11);
-    doc.text(`${index + 1}. ${item.exercise.name}`, 68, y + 10);
-    doc.setFontSize(7.5);
-    doc.setTextColor(57, 140, 119);
-    doc.text(
-      `${item.exercise.region.toUpperCase()}  •  ${item.exercise.category.toUpperCase()}`,
-      68,
-      y + 16,
-    );
-
-    doc.setTextColor(53, 65, 70);
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(8);
-    const instructions = item.exercise.instructions.join(" ");
-    doc.text(doc.splitTextToSize(instructions, 118).slice(0, 3), 68, y + 23, {
-      lineHeightFactor: 1.35,
-    });
-
-    doc.setFont("helvetica", "bold");
-    doc.setTextColor(18, 56, 82);
-    doc.text("Prescrição", 68, y + 39);
-    doc.setFont("helvetica", "normal");
-    doc.setTextColor(53, 65, 70);
+    const paragraph = (text: string, bold = false, size = 9) => {
+      doc.setFont("helvetica", bold ? "bold" : "normal");
+      doc.setFontSize(size);
+      doc.setTextColor(bold ? 18 : 53, bold ? 56 : 65, bold ? 82 : 70);
+      const lines: string[] = doc.splitTextToSize(text, 120);
+      const lineHeight = size * 0.3528 * 1.5;
+      for (const line of lines) {
+        if (y + lineHeight > 275) {
+          addFooter(doc, page);
+          doc.addPage();
+          page += 1;
+          addHeader(doc, prescription.professional, prescription.patient);
+          y = 72;
+          doc.setFont("helvetica", bold ? "bold" : "normal");
+          doc.setFontSize(size);
+          doc.setTextColor(bold ? 18 : 53, bold ? 56 : 65, bold ? 82 : 70);
+        }
+        doc.text(line, 75, y);
+        y += lineHeight;
+      }
+      y += 3;
+    };
+    paragraph(`${index + 1}. ${item.exercise.name}`, true, 14);
+    paragraph(`${item.exercise.region} | ${item.exercise.category}`, false, 8);
+    paragraph("Como executar", true, 10);
+    item.exercise.instructions.forEach((line, i) => paragraph(`${i + 1}. ${line}`));
+    if (item.exercise.equipment) paragraph(`Equipamento: ${item.exercise.equipment}`, false, 8);
+    if (item.exercise.notes) paragraph(item.exercise.notes, false, 9);
+    paragraph("Prescrição individualizada", true, 10);
     const prescriptionLine = [
-      item.series && `${item.series} séries`,
-      item.repetitions && `${item.repetitions} repetições`,
+      item.series && `Séries: ${item.series}`,
+      item.repetitions && `Repetições: ${item.repetitions}`,
       item.duration && `Tempo: ${item.duration}`,
       item.frequency && `Frequência: ${item.frequency}`,
     ]
       .filter(Boolean)
-      .join("  •  ");
-    doc.text(prescriptionLine || "Conforme orientação do profissional", 68, y + 45);
-
+      .join(" | ");
+    paragraph(prescriptionLine || "Conforme orientação do profissional responsável.");
     if (item.observation) {
-      doc.setFont("helvetica", "bold");
-      doc.text("Observação:", 68, y + 52);
-      doc.setFont("helvetica", "normal");
-      doc.text(doc.splitTextToSize(item.observation, 96).slice(0, 2), 86, y + 52, {
-        lineHeightFactor: 1.25,
-      });
+      paragraph("Orientação do profissional", true, 10);
+      paragraph(item.observation);
     }
-    y += blockHeight;
-  });
-
-  addFooter(doc, page);
+    addFooter(doc, page);
+  }
   const suffix = cleanFileName(prescription.patient || "exercicios");
   const fileName = `orientacoes-${suffix || "exercicios"}.pdf`;
   const blob = doc.output("blob");

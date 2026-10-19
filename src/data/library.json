@@ -1,0 +1,1618 @@
+[
+  {
+    "id": "library-001",
+    "sourceId": 1,
+    "name": "Retração cervical",
+    "region": "Cervical",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se ereto e olhe para a frente. Deslize a cabeça para trás, formando uma pequena papada, e retorne à posição neutra.",
+    "instructions": [
+      "Sente-se ereto e olhe para a frente. Deslize a cabeça para trás, formando uma pequena papada, e retorne à posição neutra."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Não incline a cabeça nem empurre com a mão.",
+    "keywords": ["Retração cervical", "Cervical", "Mobilidade"],
+    "image": "exercises/001.jpg"
+  },
+  {
+    "id": "library-002",
+    "sourceId": 2,
+    "name": "Rotação cervical",
+    "region": "Cervical",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se com o tronco ereto e os ombros relaxados. Gire a cabeça lentamente para um lado, volte ao centro e alterne os lados.",
+    "instructions": [
+      "Sente-se com o tronco ereto e os ombros relaxados. Gire a cabeça lentamente para um lado, volte ao centro e alterne os lados."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Use uma amplitude confortável e interrompa se sentir tontura.",
+    "keywords": ["Rotação cervical", "Cervical", "Mobilidade"],
+    "image": "exercises/002.jpg"
+  },
+  {
+    "id": "library-003",
+    "sourceId": 3,
+    "name": "Inclinação lateral cervical",
+    "region": "Cervical",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Olhe para a frente. Aproxime suavemente uma orelha do ombro do mesmo lado, retorne e repita para o outro lado.",
+    "instructions": [
+      "Olhe para a frente. Aproxime suavemente uma orelha do ombro do mesmo lado, retorne e repita para o outro lado."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Mantenha os ombros baixos e não puxe a cabeça.",
+    "keywords": ["Inclinação lateral cervical", "Cervical", "Mobilidade"],
+    "image": "exercises/003.jpg"
+  },
+  {
+    "id": "library-004",
+    "sourceId": 4,
+    "name": "Pequeno movimento de flexão cervical",
+    "region": "Cervical",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se com as costas apoiadas. Faça um pequeno movimento de sim com a cabeça, abaixando levemente o queixo, e retorne.",
+    "instructions": [
+      "Sente-se com as costas apoiadas. Faça um pequeno movimento de sim com a cabeça, abaixando levemente o queixo, e retorne."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Faça um movimento pequeno e evite olhar muito para cima.",
+    "keywords": ["Pequeno movimento de flexão cervical", "Cervical", "Mobilidade"],
+    "image": "exercises/004.jpg"
+  },
+  {
+    "id": "library-005",
+    "sourceId": 5,
+    "name": "Alongamento do levantador da escápula",
+    "region": "Cervical",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Sente-se ereto. Gire a cabeça levemente para o lado oposto ao que deseja alongar e olhe suavemente em direção à axila oposta.",
+    "instructions": [
+      "Sente-se ereto. Gire a cabeça levemente para o lado oposto ao que deseja alongar e olhe suavemente em direção à axila oposta."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Relaxe o ombro e não puxe a cabeça com a mão.",
+    "keywords": ["Alongamento do levantador da escápula", "Cervical", "Alongamento"],
+    "image": "exercises/005.jpg"
+  },
+  {
+    "id": "library-006",
+    "sourceId": 6,
+    "name": "Alongamento do trapézio superior",
+    "region": "Cervical",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Sente-se em uma cadeira estável. Deixe um braço relaxado ao lado do corpo e incline suavemente a cabeça para o lado oposto até sentir um alongamento leve.",
+    "instructions": [
+      "Sente-se em uma cadeira estável. Deixe um braço relaxado ao lado do corpo e incline suavemente a cabeça para o lado oposto até sentir um alongamento leve."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Interrompa se houver formigamento ou dor no braço.",
+    "keywords": ["Alongamento do trapézio superior", "Cervical", "Alongamento"],
+    "image": "exercises/006.jpg"
+  },
+  {
+    "id": "library-007",
+    "sourceId": 7,
+    "name": "Isometria de flexão cervical",
+    "region": "Cervical",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Coloque a palma da mão na testa. Pressione suavemente a cabeça para a frente contra a mão, que impede o movimento, e relaxe.",
+    "instructions": [
+      "Coloque a palma da mão na testa. Pressione suavemente a cabeça para a frente contra a mão, que impede o movimento, e relaxe."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Use pouca força e respire normalmente.",
+    "keywords": ["Isometria de flexão cervical", "Cervical", "Fortalecimento"],
+    "image": "exercises/007.jpg"
+  },
+  {
+    "id": "library-008",
+    "sourceId": 8,
+    "name": "Isometria de extensão cervical",
+    "region": "Cervical",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Coloque as duas mãos atrás da cabeça. Pressione suavemente para trás contra as mãos, sem mover o pescoço, e relaxe.",
+    "instructions": [
+      "Coloque as duas mãos atrás da cabeça. Pressione suavemente para trás contra as mãos, sem mover o pescoço, e relaxe."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Evite arquear as costas ou prender a respiração.",
+    "keywords": ["Isometria de extensão cervical", "Cervical", "Fortalecimento"],
+    "image": "exercises/008.jpg"
+  },
+  {
+    "id": "library-009",
+    "sourceId": 9,
+    "name": "Isometria de inclinação cervical",
+    "region": "Cervical",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Coloque a palma da mão na lateral da cabeça. Pressione suavemente para o lado contra a mão, sem inclinar a cabeça, e alterne os lados.",
+    "instructions": [
+      "Coloque a palma da mão na lateral da cabeça. Pressione suavemente para o lado contra a mão, sem inclinar a cabeça, e alterne os lados."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Mantenha a cabeça centralizada e use pouca força.",
+    "keywords": ["Isometria de inclinação cervical", "Cervical", "Fortalecimento"],
+    "image": "exercises/009.jpg"
+  },
+  {
+    "id": "library-010",
+    "sourceId": 10,
+    "name": "Isometria de rotação cervical",
+    "region": "Cervical",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Coloque uma mão na lateral da testa. Tente girar suavemente a cabeça contra a mão, que impede o movimento.",
+    "instructions": [
+      "Coloque uma mão na lateral da testa. Tente girar suavemente a cabeça contra a mão, que impede o movimento."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Não pressione a mandíbula nem gire o tronco.",
+    "keywords": ["Isometria de rotação cervical", "Cervical", "Fortalecimento"],
+    "image": "exercises/010.jpg"
+  },
+  {
+    "id": "library-011",
+    "sourceId": 11,
+    "name": "Pendular de ombro com apoio",
+    "region": "Ombro",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie uma mão em uma mesa firme e incline o tronco para a frente. Deixe o outro braço pendente e use um pequeno balanço do corpo para movimentá-lo suavemente.",
+    "instructions": [
+      "Apoie uma mão em uma mesa firme e incline o tronco para a frente. Deixe o outro braço pendente e use um pequeno balanço do corpo para movimentá-lo suavemente."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Mantenha o braço pendente relaxado e faça movimentos pequenos.",
+    "keywords": ["Pendular de ombro com apoio", "Ombro", "Mobilidade"],
+    "image": "exercises/011.jpg"
+  },
+  {
+    "id": "library-012",
+    "sourceId": 12,
+    "name": "Deslizamento na mesa para flexão do ombro",
+    "region": "Ombro",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se de frente para uma mesa com as mãos sobre uma toalha. Deslize as mãos para a frente inclinando suavemente o tronco e depois retorne.",
+    "instructions": [
+      "Sente-se de frente para uma mesa com as mãos sobre uma toalha. Deslize as mãos para a frente inclinando suavemente o tronco e depois retorne."
+    ],
+    "equipment": "Mesa firme + Toalha",
+    "notes": "Relaxe os ombros e não force o alcance.",
+    "keywords": ["Deslizamento na mesa para flexão do ombro", "Ombro", "Mobilidade"],
+    "image": "exercises/012.jpg"
+  },
+  {
+    "id": "library-013",
+    "sourceId": 13,
+    "name": "Rotação externa assistida do ombro",
+    "region": "Ombro",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se segurando um bastão, com os cotovelos dobrados junto ao corpo. Use a outra mão para conduzir suavemente o antebraço trabalhado para fora.",
+    "instructions": [
+      "Sente-se segurando um bastão, com os cotovelos dobrados junto ao corpo. Use a outra mão para conduzir suavemente o antebraço trabalhado para fora."
+    ],
+    "equipment": "Bastão leve",
+    "notes": "Mantenha o cotovelo junto ao corpo e respeite os limites após cirurgia.",
+    "keywords": ["Rotação externa assistida do ombro", "Ombro", "Mobilidade"],
+    "image": "exercises/013.jpg"
+  },
+  {
+    "id": "library-014",
+    "sourceId": 14,
+    "name": "Deslizamento dos braços na parede",
+    "region": "Ombro",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Fique de frente para uma parede e apoie os antebraços nela. Deslize-os para cima em uma amplitude confortável e retorne lentamente.",
+    "instructions": [
+      "Fique de frente para uma parede e apoie os antebraços nela. Deslize-os para cima em uma amplitude confortável e retorne lentamente."
+    ],
+    "equipment": "Parede",
+    "notes": "Não eleve os ombros nem arqueie a região lombar.",
+    "keywords": ["Deslizamento dos braços na parede", "Ombro", "Mobilidade"],
+    "image": "exercises/014.jpg"
+  },
+  {
+    "id": "library-015",
+    "sourceId": 15,
+    "name": "Ajuste escapular",
+    "region": "Ombro",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se ou fique em pé com o tronco ereto. Leve suavemente as escápulas um pouco para trás e para baixo, mantenha brevemente e relaxe.",
+    "instructions": [
+      "Sente-se ou fique em pé com o tronco ereto. Leve suavemente as escápulas um pouco para trás e para baixo, mantenha brevemente e relaxe."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Não aperte com força nem tensione o pescoço.",
+    "keywords": ["Ajuste escapular", "Ombro", "Fortalecimento"],
+    "image": "exercises/015.jpg"
+  },
+  {
+    "id": "library-016",
+    "sourceId": 16,
+    "name": "Alcance do serrátil em decúbito dorsal",
+    "region": "Ombro",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com um braço apontando para o teto. Alcance para cima com os dedos, elevando levemente a escápula, e depois abaixe.",
+    "instructions": [
+      "Deite-se de barriga para cima com um braço apontando para o teto. Alcance para cima com os dedos, elevando levemente a escápula, e depois abaixe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha o cotovelo estendido sem travá-lo e não use peso.",
+    "keywords": ["Alcance do serrátil em decúbito dorsal", "Ombro", "Fortalecimento"],
+    "image": "exercises/016.jpg"
+  },
+  {
+    "id": "library-017",
+    "sourceId": 17,
+    "name": "Remada com faixa elástica",
+    "region": "Ombro",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Prenda uma faixa leve à sua frente. Segure as pontas e leve suavemente os cotovelos para trás, próximos ao corpo, retornando lentamente.",
+    "instructions": [
+      "Prenda uma faixa leve à sua frente. Segure as pontas e leve suavemente os cotovelos para trás, próximos ao corpo, retornando lentamente."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Verifique a faixa e a ancoragem e mantenha os ombros baixos.",
+    "keywords": ["Remada com faixa elástica", "Ombro", "Fortalecimento"],
+    "image": "exercises/017.jpg"
+  },
+  {
+    "id": "library-018",
+    "sourceId": 18,
+    "name": "Rotação externa do ombro com faixa",
+    "region": "Ombro",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Com o cotovelo dobrado junto ao corpo, segure uma faixa levemente tensionada e ancorada do lado oposto. Gire o antebraço para fora e retorne lentamente.",
+    "instructions": [
+      "Com o cotovelo dobrado junto ao corpo, segure uma faixa levemente tensionada e ancorada do lado oposto. Gire o antebraço para fora e retorne lentamente."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Use uma amplitude pequena e mantenha o punho alinhado.",
+    "keywords": ["Rotação externa do ombro com faixa", "Ombro", "Fortalecimento"],
+    "image": "exercises/018.jpg"
+  },
+  {
+    "id": "library-019",
+    "sourceId": 19,
+    "name": "Rotação interna do ombro com faixa",
+    "region": "Ombro",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Fique em pé com uma faixa ancorada ao lado do braço trabalhado. Mantenha o cotovelo dobrado junto ao corpo e leve o antebraço em direção ao abdômen.",
+    "instructions": [
+      "Fique em pé com uma faixa ancorada ao lado do braço trabalhado. Mantenha o cotovelo dobrado junto ao corpo e leve o antebraço em direção ao abdômen."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Retorne lentamente e não gire o tronco.",
+    "keywords": ["Rotação interna do ombro com faixa", "Ombro", "Fortalecimento"],
+    "image": "exercises/019.jpg"
+  },
+  {
+    "id": "library-020",
+    "sourceId": 20,
+    "name": "Flexão de braços na parede",
+    "region": "Ombro",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Apoie as mãos na parede na altura dos ombros. Dobre os cotovelos para aproximar o peito da parede e depois empurre suavemente para retornar.",
+    "instructions": [
+      "Apoie as mãos na parede na altura dos ombros. Dobre os cotovelos para aproximar o peito da parede e depois empurre suavemente para retornar."
+    ],
+    "equipment": "Parede",
+    "notes": "Mantenha o corpo alinhado e os pés em uma superfície antiderrapante.",
+    "keywords": ["Flexão de braços na parede", "Ombro", "Fortalecimento"],
+    "image": "exercises/020.jpg"
+  },
+  {
+    "id": "library-021",
+    "sourceId": 21,
+    "name": "Flexão e extensão do cotovelo",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se com o braço relaxado ao lado do corpo. Dobre o cotovelo aproximando a mão do ombro e depois estenda-o confortavelmente.",
+    "instructions": [
+      "Sente-se com o braço relaxado ao lado do corpo. Dobre o cotovelo aproximando a mão do ombro e depois estenda-o confortavelmente."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Não force a extensão completa do cotovelo.",
+    "keywords": ["Flexão e extensão do cotovelo", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/021.jpg"
+  },
+  {
+    "id": "library-022",
+    "sourceId": 22,
+    "name": "Pronação do antebraço",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Mantenha o cotovelo junto ao corpo, dobrado em ângulo reto, com a palma para cima. Gire o antebraço até a palma ficar para baixo e retorne.",
+    "instructions": [
+      "Mantenha o cotovelo junto ao corpo, dobrado em ângulo reto, com a palma para cima. Gire o antebraço até a palma ficar para baixo e retorne."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Mantenha o braço parado e não dobre o punho.",
+    "keywords": ["Pronação do antebraço", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/022.jpg"
+  },
+  {
+    "id": "library-023",
+    "sourceId": 23,
+    "name": "Supinação do antebraço",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie o antebraço com a palma voltada para baixo. Gire suavemente para virar a palma para cima e retorne à posição inicial.",
+    "instructions": [
+      "Apoie o antebraço com a palma voltada para baixo. Gire suavemente para virar a palma para cima e retorne à posição inicial."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Movimente o antebraço, sem compensar com o ombro.",
+    "keywords": ["Supinação do antebraço", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/023.jpg"
+  },
+  {
+    "id": "library-024",
+    "sourceId": 24,
+    "name": "Flexão ativa do punho",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie o antebraço em uma mesa, com a mão além da borda e a palma para cima. Dobre o punho para cima e depois abaixe lentamente.",
+    "instructions": [
+      "Apoie o antebraço em uma mesa, com a mão além da borda e a palma para cima. Dobre o punho para cima e depois abaixe lentamente."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Relaxe os dedos e não acrescente peso.",
+    "keywords": ["Flexão ativa do punho", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/024.jpg"
+  },
+  {
+    "id": "library-025",
+    "sourceId": 25,
+    "name": "Extensão ativa do punho",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie o antebraço em uma mesa, com a palma para baixo e a mão além da borda. Eleve o dorso da mão e depois abaixe lentamente.",
+    "instructions": [
+      "Apoie o antebraço em uma mesa, com a palma para baixo e a mão além da borda. Eleve o dorso da mão e depois abaixe lentamente."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Mantenha o antebraço apoiado durante todo o movimento.",
+    "keywords": ["Extensão ativa do punho", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/025.jpg"
+  },
+  {
+    "id": "library-026",
+    "sourceId": 26,
+    "name": "Desvio radial do punho",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie o antebraço e a mão sobre uma mesa, com a palma para baixo. Deslize suavemente a mão para o lado do polegar e volte ao centro.",
+    "instructions": [
+      "Apoie o antebraço e a mão sobre uma mesa, com a palma para baixo. Deslize suavemente a mão para o lado do polegar e volte ao centro."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Mantenha o antebraço parado e não force o movimento.",
+    "keywords": ["Desvio radial do punho", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/026.jpg"
+  },
+  {
+    "id": "library-027",
+    "sourceId": 27,
+    "name": "Desvio ulnar do punho",
+    "region": "Cotovelo e punho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Com o antebraço apoiado e a palma para baixo, mova a mão para o lado do dedo mínimo e volte ao centro.",
+    "instructions": [
+      "Com o antebraço apoiado e a palma para baixo, mova a mão para o lado do dedo mínimo e volte ao centro."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Faça um arco pequeno e confortável, sem levantar o cotovelo.",
+    "keywords": ["Desvio ulnar do punho", "Cotovelo e punho", "Mobilidade"],
+    "image": "exercises/027.jpg"
+  },
+  {
+    "id": "library-028",
+    "sourceId": 28,
+    "name": "Isometria de flexão do punho",
+    "region": "Cotovelo e punho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Apoie o antebraço com a palma para cima. Coloque a outra mão contra a palma e tente dobrar suavemente o punho, impedindo o movimento.",
+    "instructions": [
+      "Apoie o antebraço com a palma para cima. Coloque a outra mão contra a palma e tente dobrar suavemente o punho, impedindo o movimento."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Use pouca força e mantenha os dedos relaxados.",
+    "keywords": ["Isometria de flexão do punho", "Cotovelo e punho", "Fortalecimento"],
+    "image": "exercises/028.jpg"
+  },
+  {
+    "id": "library-029",
+    "sourceId": 29,
+    "name": "Isometria de extensão do punho",
+    "region": "Cotovelo e punho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Apoie o antebraço com a palma para baixo. Coloque a outra mão sobre o dorso e tente levantar suavemente o punho, sem movimentá-lo.",
+    "instructions": [
+      "Apoie o antebraço com a palma para baixo. Coloque a outra mão sobre o dorso e tente levantar suavemente o punho, sem movimentá-lo."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Evite pressionar uma área dolorida ou inchada.",
+    "keywords": ["Isometria de extensão do punho", "Cotovelo e punho", "Fortalecimento"],
+    "image": "exercises/029.jpg"
+  },
+  {
+    "id": "library-030",
+    "sourceId": 30,
+    "name": "Rosca de bíceps com peso leve",
+    "region": "Cotovelo e punho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se ou fique em pé segurando um peso muito leve, com a palma para a frente. Dobre o cotovelo para elevar a mão e abaixe de forma controlada.",
+    "instructions": [
+      "Sente-se ou fique em pé segurando um peso muito leve, com a palma para a frente. Dobre o cotovelo para elevar a mão e abaixe de forma controlada."
+    ],
+    "equipment": "Peso de mão muito leve",
+    "notes": "Mantenha o cotovelo ao lado do corpo e não balance o braço.",
+    "keywords": ["Rosca de bíceps com peso leve", "Cotovelo e punho", "Fortalecimento"],
+    "image": "exercises/030.jpg"
+  },
+  {
+    "id": "library-031",
+    "sourceId": 31,
+    "name": "Fechamento dos dedos em gancho",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Comece com os dedos estendidos. Dobre as articulações médias e distais mantendo as articulações da base estendidas e depois abra a mão.",
+    "instructions": [
+      "Comece com os dedos estendidos. Dobre as articulações médias e distais mantendo as articulações da base estendidas e depois abra a mão."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Movimente suavemente e não force articulações rígidas.",
+    "keywords": ["Fechamento dos dedos em gancho", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/031.jpg"
+  },
+  {
+    "id": "library-032",
+    "sourceId": 32,
+    "name": "Fechamento completo da mão",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Comece com os dedos estendidos. Dobre todas as articulações dos dedos formando um punho frouxo e depois estenda-os gradualmente.",
+    "instructions": [
+      "Comece com os dedos estendidos. Dobre todas as articulações dos dedos formando um punho frouxo e depois estenda-os gradualmente."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Mantenha a mão frouxa, sem apertar com força.",
+    "keywords": ["Fechamento completo da mão", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/032.jpg"
+  },
+  {
+    "id": "library-033",
+    "sourceId": 33,
+    "name": "Posição de mesa com os dedos",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Mantenha as articulações médias e distais dos dedos estendidas. Dobre as articulações da base formando uma mesa e depois estenda os dedos.",
+    "instructions": [
+      "Mantenha as articulações médias e distais dos dedos estendidas. Dobre as articulações da base formando uma mesa e depois estenda os dedos."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Mantenha o punho neutro e não force o ângulo.",
+    "keywords": ["Posição de mesa com os dedos", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/033.jpg"
+  },
+  {
+    "id": "library-034",
+    "sourceId": 34,
+    "name": "Fechamento reto dos dedos",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Com a mão aberta, dobre as articulações da base e do meio dos dedos, mantendo as pontas relativamente estendidas. Retorne lentamente.",
+    "instructions": [
+      "Com a mão aberta, dobre as articulações da base e do meio dos dedos, mantendo as pontas relativamente estendidas. Retorne lentamente."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Use somente a amplitude disponível sem dor.",
+    "keywords": ["Fechamento reto dos dedos", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/034.jpg"
+  },
+  {
+    "id": "library-035",
+    "sourceId": 35,
+    "name": "Oposição do polegar",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Toque a ponta do polegar na ponta de cada dedo, um de cada vez. Abra a mão entre os contatos e repita suavemente.",
+    "instructions": [
+      "Toque a ponta do polegar na ponta de cada dedo, um de cada vez. Abra a mão entre os contatos e repita suavemente."
+    ],
+    "equipment": "Nenhum",
+    "notes": "Faça um contato leve, sem uma pinça forte.",
+    "keywords": ["Oposição do polegar", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/035.jpg"
+  },
+  {
+    "id": "library-036",
+    "sourceId": 36,
+    "name": "Abdução palmar do polegar",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie a mão sobre a borda do dedo mínimo. Afaste o polegar da palma formando um L e depois retorne.",
+    "instructions": [
+      "Apoie a mão sobre a borda do dedo mínimo. Afaste o polegar da palma formando um L e depois retorne."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Mova lentamente, sem dobrar o punho.",
+    "keywords": ["Abdução palmar do polegar", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/036.jpg"
+  },
+  {
+    "id": "library-037",
+    "sourceId": 37,
+    "name": "Abertura dos dedos",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie a mão com a palma para baixo. Afaste os dedos confortavelmente e depois volte a aproximá-los.",
+    "instructions": [
+      "Apoie a mão com a palma para baixo. Afaste os dedos confortavelmente e depois volte a aproximá-los."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Não pressione a mão com força contra a mesa.",
+    "keywords": ["Abertura dos dedos", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/037.jpg"
+  },
+  {
+    "id": "library-038",
+    "sourceId": 38,
+    "name": "Elevação individual dos dedos",
+    "region": "Mão e dedos",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Apoie a palma da mão sobre uma mesa. Eleve levemente um dedo sem levantar os demais, abaixe e alterne os dedos.",
+    "instructions": [
+      "Apoie a palma da mão sobre uma mesa. Eleve levemente um dedo sem levantar os demais, abaixe e alterne os dedos."
+    ],
+    "equipment": "Mesa firme",
+    "notes": "Pequenos movimentos são suficientes. Não puxe com a outra mão.",
+    "keywords": ["Elevação individual dos dedos", "Mão e dedos", "Mobilidade"],
+    "image": "exercises/038.jpg"
+  },
+  {
+    "id": "library-039",
+    "sourceId": 39,
+    "name": "Preensão com bola macia",
+    "region": "Mão e dedos",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure uma bola de espuma macia na palma. Aperte suavemente com todos os dedos, mantenha brevemente e solte completamente.",
+    "instructions": [
+      "Segure uma bola de espuma macia na palma. Aperte suavemente com todos os dedos, mantenha brevemente e solte completamente."
+    ],
+    "equipment": "Bola de espuma macia",
+    "notes": "Evite apertar com força se provocar dor nos dedos ou no polegar.",
+    "keywords": ["Preensão com bola macia", "Mão e dedos", "Fortalecimento"],
+    "image": "exercises/039.jpg"
+  },
+  {
+    "id": "library-040",
+    "sourceId": 40,
+    "name": "Pinça leve entre polegar e indicador",
+    "region": "Mão e dedos",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Coloque um pequeno pedaço de massa terapêutica macia entre o polegar e o indicador. Faça uma pinça suave, solte e remodele a massa.",
+    "instructions": [
+      "Coloque um pequeno pedaço de massa terapêutica macia entre o polegar e o indicador. Faça uma pinça suave, solte e remodele a massa."
+    ],
+    "equipment": "Massa terapêutica macia",
+    "notes": "Mantenha a articulação do polegar alinhada e use resistência muito leve.",
+    "keywords": ["Pinça leve entre polegar e indicador", "Mão e dedos", "Fortalecimento"],
+    "image": "exercises/040.jpg"
+  },
+  {
+    "id": "library-041",
+    "sourceId": 41,
+    "name": "Extensão torácica na cadeira",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se com o encosto da cadeira abaixo das escápulas. Apoie levemente a cabeça e estenda suavemente a parte superior das costas sobre o encosto.",
+    "instructions": [
+      "Sente-se com o encosto da cadeira abaixo das escápulas. Apoie levemente a cabeça e estenda suavemente a parte superior das costas sobre o encosto."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Não compense com o pescoço nem force a região lombar.",
+    "keywords": ["Extensão torácica na cadeira", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/041.jpg"
+  },
+  {
+    "id": "library-042",
+    "sourceId": 42,
+    "name": "Rotação do tronco sentado",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se ereto com os pés apoiados e os braços cruzados sobre o peito. Gire suavemente o tórax para um lado, retorne e alterne os lados.",
+    "instructions": [
+      "Sente-se ereto com os pés apoiados e os braços cruzados sobre o peito. Gire suavemente o tórax para um lado, retorne e alterne os lados."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Mantenha a pelve voltada para a frente e não force a rotação.",
+    "keywords": ["Rotação do tronco sentado", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/042.jpg"
+  },
+  {
+    "id": "library-043",
+    "sourceId": 43,
+    "name": "Alcance lateral sentado",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se ereto com uma mão apoiada na cadeira. Alcance para cima e levemente para o lado com o outro braço e depois retorne.",
+    "instructions": [
+      "Sente-se ereto com uma mão apoiada na cadeira. Alcance para cima e levemente para o lado com o outro braço e depois retorne."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Mantenha os dois lados da pelve apoiados no assento.",
+    "keywords": ["Alcance lateral sentado", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/043.jpg"
+  },
+  {
+    "id": "library-044",
+    "sourceId": 44,
+    "name": "Abertura de livro deitado de lado",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Deite-se de lado com os joelhos dobrados e os braços juntos à frente. Abra o braço de cima e gire suavemente o tórax para trás, retornando depois.",
+    "instructions": [
+      "Deite-se de lado com os joelhos dobrados e os braços juntos à frente. Abra o braço de cima e gire suavemente o tórax para trás, retornando depois."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha os joelhos juntos e não puxe o ombro.",
+    "keywords": ["Abertura de livro deitado de lado", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/044.jpg"
+  },
+  {
+    "id": "library-045",
+    "sourceId": 45,
+    "name": "Mobilização da coluna em quatro apoios",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Comece apoiado nas mãos e nos joelhos. Arredonde suavemente as costas e depois mova lentamente a coluna na direção oposta, em amplitude confortável.",
+    "instructions": [
+      "Comece apoiado nas mãos e nos joelhos. Arredonde suavemente as costas e depois mova lentamente a coluna na direção oposta, em amplitude confortável."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Faça movimentos pequenos e suaves, sem forçar os extremos.",
+    "keywords": ["Mobilização da coluna em quatro apoios", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/045.jpg"
+  },
+  {
+    "id": "library-046",
+    "sourceId": 46,
+    "name": "Rotação torácica em quatro apoios",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Em quatro apoios, coloque uma mão levemente atrás da cabeça. Gire o tórax elevando um pouco esse cotovelo e depois retorne.",
+    "instructions": [
+      "Em quatro apoios, coloque uma mão levemente atrás da cabeça. Gire o tórax elevando um pouco esse cotovelo e depois retorne."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Não puxe o pescoço e mantenha a pelve relativamente parada.",
+    "keywords": ["Rotação torácica em quatro apoios", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/046.jpg"
+  },
+  {
+    "id": "library-047",
+    "sourceId": 47,
+    "name": "Deslizamento dos braços com apoio na parede",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Fique em pé com as costas próximas à parede e os braços dobrados em posição confortável. Deslize os braços um pouco para cima e para baixo, sem esforço excessivo.",
+    "instructions": [
+      "Fique em pé com as costas próximas à parede e os braços dobrados em posição confortável. Deslize os braços um pouco para cima e para baixo, sem esforço excessivo."
+    ],
+    "equipment": "Parede",
+    "notes": "As mãos não precisam tocar a parede. Evite arquear as costas.",
+    "keywords": ["Deslizamento dos braços com apoio na parede", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/047.jpg"
+  },
+  {
+    "id": "library-048",
+    "sourceId": 48,
+    "name": "Alongamento peitoral no batente",
+    "region": "Coluna torácica",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Apoie um antebraço em um batente com o cotovelo abaixo da altura do ombro. Dê um pequeno passo à frente até sentir um alongamento leve no peito.",
+    "instructions": [
+      "Apoie um antebraço em um batente com o cotovelo abaixo da altura do ombro. Dê um pequeno passo à frente até sentir um alongamento leve no peito."
+    ],
+    "equipment": "Batente de porta",
+    "notes": "Não force se houver dor na frente do ombro.",
+    "keywords": ["Alongamento peitoral no batente", "Coluna torácica", "Alongamento"],
+    "image": "exercises/048.jpg"
+  },
+  {
+    "id": "library-049",
+    "sourceId": 49,
+    "name": "Respiração com expansão das costelas",
+    "region": "Coluna torácica",
+    "category": "Respiração",
+    "objective": "Respiração",
+    "summary": "Sente-se apoiado com as mãos nas costelas inferiores. Inspire suavemente pelo nariz, permitindo a expansão das costelas, e expire devagar.",
+    "instructions": [
+      "Sente-se apoiado com as mãos nas costelas inferiores. Inspire suavemente pelo nariz, permitindo a expansão das costelas, e expire devagar."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Respire sem esforço e interrompa se sentir tontura.",
+    "keywords": ["Respiração com expansão das costelas", "Coluna torácica", "Respiração"],
+    "image": "exercises/049.jpg"
+  },
+  {
+    "id": "library-050",
+    "sourceId": 50,
+    "name": "Alcance diagonal sentado",
+    "region": "Coluna torácica",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se em uma cadeira estável, com os pés afastados o suficiente para dar apoio. Alcance suavemente para cima e na diagonal com um braço, retorne e alterne.",
+    "instructions": [
+      "Sente-se em uma cadeira estável, com os pés afastados o suficiente para dar apoio. Alcance suavemente para cima e na diagonal com um braço, retorne e alterne."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Respeite seu equilíbrio e mantenha um apoio para a mão por perto.",
+    "keywords": ["Alcance diagonal sentado", "Coluna torácica", "Mobilidade"],
+    "image": "exercises/050.jpg"
+  },
+  {
+    "id": "library-051",
+    "sourceId": 51,
+    "name": "Ativação abdominal",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com os joelhos dobrados. Contraia suavemente a parte inferior do abdômen como se fosse se preparar para uma tosse leve e relaxe.",
+    "instructions": [
+      "Deite-se de barriga para cima com os joelhos dobrados. Contraia suavemente a parte inferior do abdômen como se fosse se preparar para uma tosse leve e relaxe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Continue respirando e evite esforço máximo.",
+    "keywords": ["Ativação abdominal", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/051.jpg"
+  },
+  {
+    "id": "library-052",
+    "sourceId": 52,
+    "name": "Inclinação pélvica",
+    "region": "Coluna lombar",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Deite-se de barriga para cima com os joelhos dobrados e os pés apoiados. Movimente suavemente a pelve para aproximar um pouco a lombar do apoio e retorne à posição neutra.",
+    "instructions": [
+      "Deite-se de barriga para cima com os joelhos dobrados e os pés apoiados. Movimente suavemente a pelve para aproximar um pouco a lombar do apoio e retorne à posição neutra."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Faça um movimento pequeno, sem empurrar com as pernas.",
+    "keywords": ["Inclinação pélvica", "Coluna lombar", "Mobilidade"],
+    "image": "exercises/052.jpg"
+  },
+  {
+    "id": "library-053",
+    "sourceId": 53,
+    "name": "Deslizamento do calcanhar com controle do tronco",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com os joelhos dobrados. Ative levemente o abdômen, deslize um calcanhar para longe e retorne sem balançar a pelve.",
+    "instructions": [
+      "Deite-se de barriga para cima com os joelhos dobrados. Ative levemente o abdômen, deslize um calcanhar para longe e retorne sem balançar a pelve."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Reduza o deslizamento se as costas arquearem ou surgir dor.",
+    "keywords": [
+      "Deslizamento do calcanhar com controle do tronco",
+      "Coluna lombar",
+      "Fortalecimento"
+    ],
+    "image": "exercises/053.jpg"
+  },
+  {
+    "id": "library-054",
+    "sourceId": 54,
+    "name": "Abertura do joelho com controle pélvico",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com os joelhos dobrados. Abra um joelho um pouco para o lado, mantendo a pelve parada, e retorne.",
+    "instructions": [
+      "Deite-se de barriga para cima com os joelhos dobrados. Abra um joelho um pouco para o lado, mantendo a pelve parada, e retorne."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Use somente a amplitude que consegue controlar e respeite as precauções do quadril.",
+    "keywords": ["Abertura do joelho com controle pélvico", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/054.jpg"
+  },
+  {
+    "id": "library-055",
+    "sourceId": 55,
+    "name": "Ponte curta",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima, com os joelhos dobrados e os pés na largura do quadril. Contraia os glúteos, eleve um pouco a pelve e abaixe lentamente.",
+    "instructions": [
+      "Deite-se de barriga para cima, com os joelhos dobrados e os pés na largura do quadril. Contraia os glúteos, eleve um pouco a pelve e abaixe lentamente."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Não eleve excessivamente nem arqueie a região lombar.",
+    "keywords": ["Ponte curta", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/055.jpg"
+  },
+  {
+    "id": "library-056",
+    "sourceId": 56,
+    "name": "Marcha deitado",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com os joelhos dobrados. Ative levemente o abdômen, eleve um pé alguns centímetros, apoie novamente e alterne os lados.",
+    "instructions": [
+      "Deite-se de barriga para cima com os joelhos dobrados. Ative levemente o abdômen, eleve um pé alguns centímetros, apoie novamente e alterne os lados."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha a pelve nivelada e respire durante o exercício.",
+    "keywords": ["Marcha deitado", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/056.jpg"
+  },
+  {
+    "id": "library-057",
+    "sourceId": 57,
+    "name": "Deslizamento da perna em quatro apoios",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Comece apoiado nas mãos e nos joelhos. Deslize um pé para trás pelo chão, alongando a perna, e retorne sem deslocar o tronco.",
+    "instructions": [
+      "Comece apoiado nas mãos e nos joelhos. Deslize um pé para trás pelo chão, alongando a perna, e retorne sem deslocar o tronco."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha os dedos do pé no chão e não gire a pelve.",
+    "keywords": ["Deslizamento da perna em quatro apoios", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/057.jpg"
+  },
+  {
+    "id": "library-058",
+    "sourceId": 58,
+    "name": "Alcance do braço em quatro apoios",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Em quatro apoios, leve um braço para a frente em uma altura confortável. Retorne a mão ao chão e alterne os braços.",
+    "instructions": [
+      "Em quatro apoios, leve um braço para a frente em uma altura confortável. Retorne a mão ao chão e alterne os braços."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha o tronco estável e encurte o alcance se necessário.",
+    "keywords": ["Alcance do braço em quatro apoios", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/058.jpg"
+  },
+  {
+    "id": "library-059",
+    "sourceId": 59,
+    "name": "Extensão alternada de braço e perna",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Em quatro apoios, estenda suavemente um braço para a frente e a perna oposta para trás. Retorne lentamente e alterne os lados.",
+    "instructions": [
+      "Em quatro apoios, estenda suavemente um braço para a frente e a perna oposta para trás. Retorne lentamente e alterne os lados."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Realize apenas após controlar as tarefas mais simples em quatro apoios.",
+    "keywords": ["Extensão alternada de braço e perna", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/059.jpg"
+  },
+  {
+    "id": "library-060",
+    "sourceId": 60,
+    "name": "Prancha lateral modificada",
+    "region": "Coluna lombar",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de lado com os joelhos dobrados e o cotovelo abaixo do ombro. Eleve suavemente o quadril, alinhando ombros, quadril e joelhos, e depois abaixe.",
+    "instructions": [
+      "Deite-se de lado com os joelhos dobrados e o cotovelo abaixo do ombro. Eleve suavemente o quadril, alinhando ombros, quadril e joelhos, e depois abaixe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Evite se houver dor no ombro de apoio e continue respirando.",
+    "keywords": ["Prancha lateral modificada", "Coluna lombar", "Fortalecimento"],
+    "image": "exercises/060.jpg"
+  },
+  {
+    "id": "library-061",
+    "sourceId": 61,
+    "name": "Abdução do quadril em pé",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure uma bancada estável. Mantenha o tronco ereto, mova uma perna um pouco para o lado e retorne.",
+    "instructions": [
+      "Segure uma bancada estável. Mantenha o tronco ereto, mova uma perna um pouco para o lado e retorne."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha os dedos do pé para a frente e não incline o tronco para o lado.",
+    "keywords": ["Abdução do quadril em pé", "Quadril", "Fortalecimento"],
+    "image": "exercises/061.jpg"
+  },
+  {
+    "id": "library-062",
+    "sourceId": 62,
+    "name": "Abdução do quadril deitado de lado",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de lado com o joelho de baixo dobrado. Mantenha a perna de cima estendida, eleve-a um pouco para o lado e abaixe lentamente.",
+    "instructions": [
+      "Deite-se de lado com o joelho de baixo dobrado. Mantenha a perna de cima estendida, eleve-a um pouco para o lado e abaixe lentamente."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha a pelve alinhada e não vire os dedos do pé para cima.",
+    "keywords": ["Abdução do quadril deitado de lado", "Quadril", "Fortalecimento"],
+    "image": "exercises/062.jpg"
+  },
+  {
+    "id": "library-063",
+    "sourceId": 63,
+    "name": "Adução do quadril com almofada",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com os joelhos dobrados e uma almofada entre eles. Aperte suavemente a almofada, mantenha brevemente e relaxe.",
+    "instructions": [
+      "Deite-se de barriga para cima com os joelhos dobrados e uma almofada entre eles. Aperte suavemente a almofada, mantenha brevemente e relaxe."
+    ],
+    "equipment": "Colchonete + Almofada",
+    "notes": "Use esforço leve e interrompa se a dor na virilha aumentar.",
+    "keywords": ["Adução do quadril com almofada", "Quadril", "Fortalecimento"],
+    "image": "exercises/063.jpg"
+  },
+  {
+    "id": "library-064",
+    "sourceId": 64,
+    "name": "Abertura de joelho deitado de lado",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de lado com quadris e joelhos levemente dobrados. Mantenha os pés juntos, eleve um pouco o joelho de cima e abaixe.",
+    "instructions": [
+      "Deite-se de lado com quadris e joelhos levemente dobrados. Mantenha os pés juntos, eleve um pouco o joelho de cima e abaixe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Não gire a pelve para trás para aumentar a abertura.",
+    "keywords": ["Abertura de joelho deitado de lado", "Quadril", "Fortalecimento"],
+    "image": "exercises/064.jpg"
+  },
+  {
+    "id": "library-065",
+    "sourceId": 65,
+    "name": "Flexão do quadril em pé com apoio",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure uma bancada estável e mantenha o tronco ereto. Eleve um joelho confortavelmente em direção ao peito, abaixe e alterne os lados.",
+    "instructions": [
+      "Segure uma bancada estável e mantenha o tronco ereto. Eleve um joelho confortavelmente em direção ao peito, abaixe e alterne os lados."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Não incline o tronco para trás e respeite as restrições após cirurgia do quadril.",
+    "keywords": ["Flexão do quadril em pé com apoio", "Quadril", "Fortalecimento"],
+    "image": "exercises/065.jpg"
+  },
+  {
+    "id": "library-066",
+    "sourceId": 66,
+    "name": "Extensão do quadril em pé",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure um apoio firme. Mantenha o joelho estendido, mas relaxado, mova uma perna um pouco para trás e retorne.",
+    "instructions": [
+      "Segure um apoio firme. Mantenha o joelho estendido, mas relaxado, mova uma perna um pouco para trás e retorne."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Movimente o quadril sem arquear a região lombar.",
+    "keywords": ["Extensão do quadril em pé", "Quadril", "Fortalecimento"],
+    "image": "exercises/066.jpg"
+  },
+  {
+    "id": "library-067",
+    "sourceId": 67,
+    "name": "Extensão do quadril deitado de barriga para baixo",
+    "region": "Quadril",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para baixo com a testa apoiada. Contraia um glúteo, eleve um pouco a perna estendida e abaixe.",
+    "instructions": [
+      "Deite-se de barriga para baixo com a testa apoiada. Contraia um glúteo, eleve um pouco a perna estendida e abaixe."
+    ],
+    "equipment": "Colchonete + Almofada",
+    "notes": "Mantenha a pelve no colchonete e não eleve muito a perna.",
+    "keywords": ["Extensão do quadril deitado de barriga para baixo", "Quadril", "Fortalecimento"],
+    "image": "exercises/067.jpg"
+  },
+  {
+    "id": "library-068",
+    "sourceId": 68,
+    "name": "Alongamento posterior da coxa deitado",
+    "region": "Quadril",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Deite-se de barriga para cima e apoie uma coxa com as duas mãos, atrás dela, próxima ao joelho. Estenda suavemente esse joelho até sentir um alongamento leve.",
+    "instructions": [
+      "Deite-se de barriga para cima e apoie uma coxa com as duas mãos, atrás dela, próxima ao joelho. Estenda suavemente esse joelho até sentir um alongamento leve."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Não puxe diretamente atrás do joelho nem force os dedos do pé para cima.",
+    "keywords": ["Alongamento posterior da coxa deitado", "Quadril", "Alongamento"],
+    "image": "exercises/068.jpg"
+  },
+  {
+    "id": "library-069",
+    "sourceId": 69,
+    "name": "Alongamento dos flexores do quadril em pé",
+    "region": "Quadril",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Segure uma bancada, com um pé um pouco à frente do outro. Ajuste suavemente a pelve e desloque o corpo um pouco à frente para alongar a frente do quadril de trás.",
+    "instructions": [
+      "Segure uma bancada, com um pé um pouco à frente do outro. Ajuste suavemente a pelve e desloque o corpo um pouco à frente para alongar a frente do quadril de trás."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha a lombar neutra, sem arquear.",
+    "keywords": ["Alongamento dos flexores do quadril em pé", "Quadril", "Alongamento"],
+    "image": "exercises/069.jpg"
+  },
+  {
+    "id": "library-070",
+    "sourceId": 70,
+    "name": "Alongamento do glúteo sentado",
+    "region": "Quadril",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Sente-se ereto e apoie um tornozelo sobre a coxa oposta, se confortável. Incline-se um pouco à frente a partir do quadril até sentir um alongamento leve no glúteo.",
+    "instructions": [
+      "Sente-se ereto e apoie um tornozelo sobre a coxa oposta, se confortável. Incline-se um pouco à frente a partir do quadril até sentir um alongamento leve no glúteo."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Não realize se cruzar a perna estiver restrito após cirurgia do quadril.",
+    "keywords": ["Alongamento do glúteo sentado", "Quadril", "Alongamento"],
+    "image": "exercises/070.jpg"
+  },
+  {
+    "id": "library-071",
+    "sourceId": 71,
+    "name": "Contração do quadríceps",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se ou sente-se com uma perna estendida e apoiada. Contraia a frente da coxa, pressionando suavemente a parte de trás do joelho contra o apoio, e relaxe.",
+    "instructions": [
+      "Deite-se ou sente-se com uma perna estendida e apoiada. Contraia a frente da coxa, pressionando suavemente a parte de trás do joelho contra o apoio, e relaxe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Não force a extensão de um joelho dolorido.",
+    "keywords": ["Contração do quadríceps", "Joelho", "Fortalecimento"],
+    "image": "exercises/071.jpg"
+  },
+  {
+    "id": "library-072",
+    "sourceId": 72,
+    "name": "Extensão curta do joelho",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com uma toalha enrolada sob um joelho. Eleve o calcanhar estendendo o joelho e abaixe lentamente.",
+    "instructions": [
+      "Deite-se de barriga para cima com uma toalha enrolada sob um joelho. Eleve o calcanhar estendendo o joelho e abaixe lentamente."
+    ],
+    "equipment": "Colchonete + Toalha",
+    "notes": "Mantenha a coxa sobre a toalha e evite movimentos bruscos.",
+    "keywords": ["Extensão curta do joelho", "Joelho", "Fortalecimento"],
+    "image": "exercises/072.jpg"
+  },
+  {
+    "id": "library-073",
+    "sourceId": 73,
+    "name": "Extensão do joelho sentado",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se em uma cadeira firme com os pés apoiados. Estenda lentamente um joelho até uma posição confortável e abaixe o pé de forma controlada.",
+    "instructions": [
+      "Sente-se em uma cadeira firme com os pés apoiados. Estenda lentamente um joelho até uma posição confortável e abaixe o pé de forma controlada."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Evite acrescentar peso inicialmente e não trave o joelho.",
+    "keywords": ["Extensão do joelho sentado", "Joelho", "Fortalecimento"],
+    "image": "exercises/073.jpg"
+  },
+  {
+    "id": "library-074",
+    "sourceId": 74,
+    "name": "Elevação da perna estendida",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para cima com um joelho dobrado e a outra perna estendida. Contraia a coxa da perna estendida, eleve um pouco a perna e abaixe lentamente.",
+    "instructions": [
+      "Deite-se de barriga para cima com um joelho dobrado e a outra perna estendida. Contraia a coxa da perna estendida, eleve um pouco a perna e abaixe lentamente."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Não realize se o joelho dobrar durante a elevação ou surgir dor nas costas.",
+    "keywords": ["Elevação da perna estendida", "Joelho", "Fortalecimento"],
+    "image": "exercises/074.jpg"
+  },
+  {
+    "id": "library-075",
+    "sourceId": 75,
+    "name": "Deslizamento para flexão do joelho",
+    "region": "Joelho",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Deite-se de barriga para cima com a perna apoiada. Deslize o calcanhar em direção ao glúteo para dobrar o joelho e depois deslize-o para longe.",
+    "instructions": [
+      "Deite-se de barriga para cima com a perna apoiada. Deslize o calcanhar em direção ao glúteo para dobrar o joelho e depois deslize-o para longe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Respeite qualquer limite de flexão do joelho prescrito.",
+    "keywords": ["Deslizamento para flexão do joelho", "Joelho", "Mobilidade"],
+    "image": "exercises/075.jpg"
+  },
+  {
+    "id": "library-076",
+    "sourceId": 76,
+    "name": "Flexão do joelho deitado de barriga para baixo",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Deite-se de barriga para baixo com as pernas relaxadas. Dobre um joelho aproximando o calcanhar do glúteo em amplitude confortável e depois abaixe.",
+    "instructions": [
+      "Deite-se de barriga para baixo com as pernas relaxadas. Dobre um joelho aproximando o calcanhar do glúteo em amplitude confortável e depois abaixe."
+    ],
+    "equipment": "Colchonete",
+    "notes": "Mantenha a pelve no colchonete e não puxe com uma faixa.",
+    "keywords": ["Flexão do joelho deitado de barriga para baixo", "Joelho", "Fortalecimento"],
+    "image": "exercises/076.jpg"
+  },
+  {
+    "id": "library-077",
+    "sourceId": 77,
+    "name": "Flexão do joelho em pé",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure uma bancada e mantenha o tronco ereto. Dobre um joelho levando o calcanhar para trás e retorne lentamente o pé ao chão.",
+    "instructions": [
+      "Segure uma bancada e mantenha o tronco ereto. Dobre um joelho levando o calcanhar para trás e retorne lentamente o pé ao chão."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha as coxas aproximadamente alinhadas e não incline o tronco.",
+    "keywords": ["Flexão do joelho em pé", "Joelho", "Fortalecimento"],
+    "image": "exercises/077.jpg"
+  },
+  {
+    "id": "library-078",
+    "sourceId": 78,
+    "name": "Miniagachamento com apoio",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure uma bancada firme com os pés na largura do quadril. Dobre um pouco os quadris e os joelhos como se fosse começar a sentar e depois fique ereto.",
+    "instructions": [
+      "Segure uma bancada firme com os pés na largura do quadril. Dobre um pouco os quadris e os joelhos como se fosse começar a sentar e depois fique ereto."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha os joelhos alinhados com os pés e use uma amplitude pequena.",
+    "keywords": ["Miniagachamento com apoio", "Joelho", "Fortalecimento"],
+    "image": "exercises/078.jpg"
+  },
+  {
+    "id": "library-079",
+    "sourceId": 79,
+    "name": "Agachamento curto na parede",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Fique em pé com as costas apoiadas na parede e os pés um pouco à frente. Deslize um pouco para baixo, faça uma pausa breve e retorne.",
+    "instructions": [
+      "Fique em pé com as costas apoiadas na parede e os pés um pouco à frente. Deslize um pouco para baixo, faça uma pausa breve e retorne."
+    ],
+    "equipment": "Parede",
+    "notes": "Não desça muito nem prenda a respiração.",
+    "keywords": ["Agachamento curto na parede", "Joelho", "Fortalecimento"],
+    "image": "exercises/079.jpg"
+  },
+  {
+    "id": "library-080",
+    "sourceId": 80,
+    "name": "Subida em degrau baixo",
+    "region": "Joelho",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure um corrimão ao lado de um degrau baixo e estável. Suba com um pé e depois leve o outro ao degrau, retornando com cuidado.",
+    "instructions": [
+      "Segure um corrimão ao lado de um degrau baixo e estável. Suba com um pé e depois leve o outro ao degrau, retornando com cuidado."
+    ],
+    "equipment": "Degrau baixo estável + Corrimão firme",
+    "notes": "Use um degrau baixo e supervisão se houver insegurança no equilíbrio.",
+    "keywords": ["Subida em degrau baixo", "Joelho", "Fortalecimento"],
+    "image": "exercises/080.jpg"
+  },
+  {
+    "id": "library-081",
+    "sourceId": 81,
+    "name": "Flexão e extensão do tornozelo",
+    "region": "Tornozelo e pé",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se ou deite-se com a perna apoiada. Aponte suavemente o pé para longe e depois aproxime os dedos da canela.",
+    "instructions": [
+      "Sente-se ou deite-se com a perna apoiada. Aponte suavemente o pé para longe e depois aproxime os dedos da canela."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Movimente o tornozelo e não force uma articulação inchada.",
+    "keywords": ["Flexão e extensão do tornozelo", "Tornozelo e pé", "Mobilidade"],
+    "image": "exercises/081.jpg"
+  },
+  {
+    "id": "library-082",
+    "sourceId": 82,
+    "name": "Círculos com o tornozelo",
+    "region": "Tornozelo e pé",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Sente-se com o pé fora do chão. Desenhe lentamente pequenos círculos com o pé e depois inverta a direção.",
+    "instructions": [
+      "Sente-se com o pé fora do chão. Desenhe lentamente pequenos círculos com o pé e depois inverta a direção."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Mantenha o joelho parado e faça círculos confortáveis.",
+    "keywords": ["Círculos com o tornozelo", "Tornozelo e pé", "Mobilidade"],
+    "image": "exercises/082.jpg"
+  },
+  {
+    "id": "library-083",
+    "sourceId": 83,
+    "name": "Alongamento da panturrilha com joelho estendido",
+    "region": "Tornozelo e pé",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Fique de frente para uma parede, com um pé atrás do outro. Mantenha o joelho de trás estendido e o calcanhar no chão enquanto leva suavemente o corpo à frente.",
+    "instructions": [
+      "Fique de frente para uma parede, com um pé atrás do outro. Mantenha o joelho de trás estendido e o calcanhar no chão enquanto leva suavemente o corpo à frente."
+    ],
+    "equipment": "Parede",
+    "notes": "Não faça balanços nem force se houver dor no tendão de Aquiles.",
+    "keywords": [
+      "Alongamento da panturrilha com joelho estendido",
+      "Tornozelo e pé",
+      "Alongamento"
+    ],
+    "image": "exercises/083.jpg"
+  },
+  {
+    "id": "library-084",
+    "sourceId": 84,
+    "name": "Alongamento da panturrilha com joelho dobrado",
+    "region": "Tornozelo e pé",
+    "category": "Alongamento",
+    "objective": "Alongamento",
+    "summary": "Apoie-se em uma parede, com um pé um pouco à frente do outro. Mantenha o calcanhar de trás no chão e dobre suavemente esse joelho até sentir um alongamento leve na parte inferior da panturrilha.",
+    "instructions": [
+      "Apoie-se em uma parede, com um pé um pouco à frente do outro. Mantenha o calcanhar de trás no chão e dobre suavemente esse joelho até sentir um alongamento leve na parte inferior da panturrilha."
+    ],
+    "equipment": "Parede",
+    "notes": "Mantenha o calcanhar apoiado e evite dobrar profundamente com dor.",
+    "keywords": ["Alongamento da panturrilha com joelho dobrado", "Tornozelo e pé", "Alongamento"],
+    "image": "exercises/084.jpg"
+  },
+  {
+    "id": "library-085",
+    "sourceId": 85,
+    "name": "Dorsiflexão do tornozelo com faixa",
+    "region": "Tornozelo e pé",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se com a perna apoiada e uma faixa leve sobre o dorso do pé, ancorada à frente. Puxe os dedos em direção à canela e retorne lentamente.",
+    "instructions": [
+      "Sente-se com a perna apoiada e uma faixa leve sobre o dorso do pé, ancorada à frente. Puxe os dedos em direção à canela e retorne lentamente."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Use uma ancoragem segura e mantenha a faixa longe do rosto.",
+    "keywords": ["Dorsiflexão do tornozelo com faixa", "Tornozelo e pé", "Fortalecimento"],
+    "image": "exercises/085.jpg"
+  },
+  {
+    "id": "library-086",
+    "sourceId": 86,
+    "name": "Flexão plantar com faixa",
+    "region": "Tornozelo e pé",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se com uma faixa leve ao redor da parte anterior do pé e segure as pontas. Empurre suavemente o pé para longe contra a faixa e retorne.",
+    "instructions": [
+      "Sente-se com uma faixa leve ao redor da parte anterior do pé e segure as pontas. Empurre suavemente o pé para longe contra a faixa e retorne."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Mantenha o joelho parado e verifique a faixa antes de usar.",
+    "keywords": ["Flexão plantar com faixa", "Tornozelo e pé", "Fortalecimento"],
+    "image": "exercises/086.jpg"
+  },
+  {
+    "id": "library-087",
+    "sourceId": 87,
+    "name": "Inversão do tornozelo com faixa",
+    "region": "Tornozelo e pé",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se com a perna apoiada e uma faixa puxando a parte anterior do pé para fora. Vire um pouco a sola para dentro contra a faixa e retorne.",
+    "instructions": [
+      "Sente-se com a perna apoiada e uma faixa puxando a parte anterior do pé para fora. Vire um pouco a sola para dentro contra a faixa e retorne."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Faça um movimento pequeno, sem girar a perna inteira.",
+    "keywords": ["Inversão do tornozelo com faixa", "Tornozelo e pé", "Fortalecimento"],
+    "image": "exercises/087.jpg"
+  },
+  {
+    "id": "library-088",
+    "sourceId": 88,
+    "name": "Eversão do tornozelo com faixa",
+    "region": "Tornozelo e pé",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se com a perna apoiada e uma faixa puxando a parte anterior do pé para dentro. Mova o pé um pouco para fora contra a faixa e retorne.",
+    "instructions": [
+      "Sente-se com a perna apoiada e uma faixa puxando a parte anterior do pé para dentro. Mova o pé um pouco para fora contra a faixa e retorne."
+    ],
+    "equipment": "Faixa elástica leve, com ancoragem segura",
+    "notes": "Não gire o joelho para mover o pé.",
+    "keywords": ["Eversão do tornozelo com faixa", "Tornozelo e pé", "Fortalecimento"],
+    "image": "exercises/088.jpg"
+  },
+  {
+    "id": "library-089",
+    "sourceId": 89,
+    "name": "Enrolamento de toalha com os dedos do pé",
+    "region": "Tornozelo e pé",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se com uma toalha pequena sob a parte anterior do pé. Dobre os dedos para puxar parte da toalha em sua direção e solte.",
+    "instructions": [
+      "Sente-se com uma toalha pequena sob a parte anterior do pé. Dobre os dedos para puxar parte da toalha em sua direção e solte."
+    ],
+    "equipment": "Cadeira estável + Toalha",
+    "notes": "Mantenha o calcanhar apoiado e evite apertar com dor nos dedos.",
+    "keywords": ["Enrolamento de toalha com os dedos do pé", "Tornozelo e pé", "Fortalecimento"],
+    "image": "exercises/089.jpg"
+  },
+  {
+    "id": "library-090",
+    "sourceId": 90,
+    "name": "Elevação bilateral dos calcanhares com apoio",
+    "region": "Tornozelo e pé",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure uma bancada estável com os dois pés no chão. Eleve lentamente os calcanhares, apoiando-se na parte anterior dos pés, e abaixe de forma controlada.",
+    "instructions": [
+      "Segure uma bancada estável com os dois pés no chão. Eleve lentamente os calcanhares, apoiando-se na parte anterior dos pés, e abaixe de forma controlada."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Use o chão nivelado e não abaixe os calcanhares além de um degrau.",
+    "keywords": [
+      "Elevação bilateral dos calcanhares com apoio",
+      "Tornozelo e pé",
+      "Fortalecimento"
+    ],
+    "image": "exercises/090.jpg"
+  },
+  {
+    "id": "library-091",
+    "sourceId": 91,
+    "name": "Sentar e levantar",
+    "region": "Equilíbrio e função",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Sente-se próximo à borda de uma cadeira firme, com os pés um pouco atrás dos joelhos. Incline o tronco à frente a partir do quadril, levante-se e depois sente lentamente.",
+    "instructions": [
+      "Sente-se próximo à borda de uma cadeira firme, com os pés um pouco atrás dos joelhos. Incline o tronco à frente a partir do quadril, levante-se e depois sente lentamente."
+    ],
+    "equipment": "Cadeira estável",
+    "notes": "Use os braços da cadeira ou um assento mais alto se necessário e mantenha a cadeira firme.",
+    "keywords": ["Sentar e levantar", "Equilíbrio e função", "Fortalecimento"],
+    "image": "exercises/091.jpg"
+  },
+  {
+    "id": "library-092",
+    "sourceId": 92,
+    "name": "Equilíbrio com um pé à frente do outro",
+    "region": "Equilíbrio e função",
+    "category": "Equilíbrio",
+    "objective": "Equilíbrio",
+    "summary": "Fique ao lado de uma bancada firme. Coloque um pé à frente do outro, com o calcanhar próximo aos dedos do pé de trás, mantenha a posição e alterne os pés.",
+    "instructions": [
+      "Fique ao lado de uma bancada firme. Coloque um pé à frente do outro, com o calcanhar próximo aos dedos do pé de trás, mantenha a posição e alterne os pés."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha uma mão no apoio se necessário e não feche os olhos.",
+    "keywords": ["Equilíbrio com um pé à frente do outro", "Equilíbrio e função", "Equilíbrio"],
+    "image": "exercises/092.jpg"
+  },
+  {
+    "id": "library-093",
+    "sourceId": 93,
+    "name": "Apoio em uma perna com suporte",
+    "region": "Equilíbrio e função",
+    "category": "Equilíbrio",
+    "objective": "Equilíbrio",
+    "summary": "Segure uma bancada firme. Transfira o peso para uma perna, eleve o outro pé um pouco do chão, abaixe e alterne os lados.",
+    "instructions": [
+      "Segure uma bancada firme. Transfira o peso para uma perna, eleve o outro pé um pouco do chão, abaixe e alterne os lados."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Use apoio das mãos durante todo o exercício se o equilíbrio for limitado.",
+    "keywords": ["Apoio em uma perna com suporte", "Equilíbrio e função", "Equilíbrio"],
+    "image": "exercises/093.jpg"
+  },
+  {
+    "id": "library-094",
+    "sourceId": 94,
+    "name": "Transferência lateral de peso",
+    "region": "Equilíbrio e função",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Fique em pé com os pés afastados e as mãos próximas a uma bancada. Transfira lentamente mais peso para um pé, volte ao centro e alterne os lados.",
+    "instructions": [
+      "Fique em pé com os pés afastados e as mãos próximas a uma bancada. Transfira lentamente mais peso para um pé, volte ao centro e alterne os lados."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha os dois pés no chão e não incline muito o corpo.",
+    "keywords": ["Transferência lateral de peso", "Equilíbrio e função", "Mobilidade"],
+    "image": "exercises/094.jpg"
+  },
+  {
+    "id": "library-095",
+    "sourceId": 95,
+    "name": "Transferência de peso para frente e para trás",
+    "region": "Equilíbrio e função",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Fique em pé com um pé um pouco à frente e segure uma bancada. Transfira suavemente o peso para o pé da frente e depois para o pé de trás.",
+    "instructions": [
+      "Fique em pé com um pé um pouco à frente e segure uma bancada. Transfira suavemente o peso para o pé da frente e depois para o pé de trás."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Mantenha os dois pés apoiados e uma distância curta entre eles.",
+    "keywords": [
+      "Transferência de peso para frente e para trás",
+      "Equilíbrio e função",
+      "Mobilidade"
+    ],
+    "image": "exercises/095.jpg"
+  },
+  {
+    "id": "library-096",
+    "sourceId": 96,
+    "name": "Marcha parada com apoio",
+    "region": "Equilíbrio e função",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Segure uma bancada estável e mantenha o tronco ereto. Eleve alternadamente cada joelho um pouco, apoiando o pé com cuidado antes de trocar o lado.",
+    "instructions": [
+      "Segure uma bancada estável e mantenha o tronco ereto. Eleve alternadamente cada joelho um pouco, apoiando o pé com cuidado antes de trocar o lado."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Não tenha pressa nem puxe o corpo para cima com os braços.",
+    "keywords": ["Marcha parada com apoio", "Equilíbrio e função", "Mobilidade"],
+    "image": "exercises/096.jpg"
+  },
+  {
+    "id": "library-097",
+    "sourceId": 97,
+    "name": "Passos laterais junto à bancada",
+    "region": "Equilíbrio e função",
+    "category": "Coordenação",
+    "objective": "Coordenação",
+    "summary": "Fique de frente para uma bancada livre de obstáculos. Dê um passo para o lado, aproxime o outro pé e depois repita na direção oposta.",
+    "instructions": [
+      "Fique de frente para uma bancada livre de obstáculos. Dê um passo para o lado, aproxime o outro pé e depois repita na direção oposta."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Não cruze os pés e mantenha apoio para as mãos disponível.",
+    "keywords": ["Passos laterais junto à bancada", "Equilíbrio e função", "Coordenação"],
+    "image": "exercises/097.jpg"
+  },
+  {
+    "id": "library-098",
+    "sourceId": 98,
+    "name": "Caminhada com um pé à frente do outro",
+    "region": "Equilíbrio e função",
+    "category": "Coordenação",
+    "objective": "Coordenação",
+    "summary": "Caminhe lentamente ao lado de uma bancada ou corrimão. Coloque cada calcanhar próximo aos dedos do pé oposto, usando apoio das mãos se necessário.",
+    "instructions": [
+      "Caminhe lentamente ao lado de uma bancada ou corrimão. Coloque cada calcanhar próximo aos dedos do pé oposto, usando apoio das mãos se necessário."
+    ],
+    "equipment": "Corrimão firme",
+    "notes": "Tenha supervisão se houver instabilidade e não pratique perto de escadas.",
+    "keywords": ["Caminhada com um pé à frente do outro", "Equilíbrio e função", "Coordenação"],
+    "image": "exercises/098.jpg"
+  },
+  {
+    "id": "library-099",
+    "sourceId": 99,
+    "name": "Toques alternados em degrau baixo",
+    "region": "Equilíbrio e função",
+    "category": "Fortalecimento",
+    "objective": "Fortalecimento",
+    "summary": "Segure um corrimão ao lado de um degrau baixo. Toque levemente um pé no degrau, retorne ao chão e alterne os pés.",
+    "instructions": [
+      "Segure um corrimão ao lado de um degrau baixo. Toque levemente um pé no degrau, retorne ao chão e alterne os pés."
+    ],
+    "equipment": "Degrau baixo estável + Corrimão firme",
+    "notes": "Faça o toque sem transferir todo o peso para o degrau.",
+    "keywords": ["Toques alternados em degrau baixo", "Equilíbrio e função", "Fortalecimento"],
+    "image": "exercises/099.jpg"
+  },
+  {
+    "id": "library-100",
+    "sourceId": 100,
+    "name": "Alcance à frente com apoio",
+    "region": "Equilíbrio e função",
+    "category": "Mobilidade",
+    "objective": "Mobilidade",
+    "summary": "Fique em pé ao lado de uma bancada firme com uma mão apoiada. Alcance um pouco à frente com o outro braço e retorne sem dar um passo.",
+    "instructions": [
+      "Fique em pé ao lado de uma bancada firme com uma mão apoiada. Alcance um pouco à frente com o outro braço e retorne sem dar um passo."
+    ],
+    "equipment": "Bancada estável",
+    "notes": "Fique bem dentro dos seus limites de equilíbrio e não alcance o chão.",
+    "keywords": ["Alcance à frente com apoio", "Equilíbrio e função", "Mobilidade"],
+    "image": "exercises/100.jpg"
+  }
+]
